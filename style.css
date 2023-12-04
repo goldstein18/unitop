@@ -13,8 +13,8 @@
 .left {
     width: 50%;
     height: 100vh;
-    background-color: #4598F6;
-    background-color: #414040;
+    background-color: #4598F6; /* BLUE BACKGROUND */
+    /*background-color: #414040;*/
 }
 
 .left img {
